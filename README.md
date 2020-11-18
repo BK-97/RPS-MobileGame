@@ -6,17 +6,29 @@ Link:https://drive.google.com/file/d/1bwluhc3m-_Sbk43x5L9aSchsv1CKxwam/view
 
 This is a Unity 2D mobile Rock-Paper-Scissors game project.
 With this project, you can learn:
+
 Scenes
+
 Audio components
+
 Animations
+
 Using Inspector
+
 Audio Mixer
-What is EventSystem
-What is Game Manager
+
+What is EventSystem?
+
+What is Game Manager?
+
 UI Canvas-Button
+
 Creating Menu
+
 Using Music in game
+
 Slider
+
 
 ## Project Pictures
 
