@@ -59,7 +59,4 @@ If you are bored or the music of the game is too high for you, you can stop the 
 
 ![game5](https://user-images.githubusercontent.com/59361739/98847392-3c7a2e80-2461-11eb-818c-1d70b283f106.png)
 
-# This game will be updated soon with the multiplayer mode.
-## I mean i will try...
-### No promises...
 
